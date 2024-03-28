@@ -14,6 +14,14 @@ Script de **complexidade baixa** criado e baseado em JS usando o motor V8 do Chr
 
 > [!IMPORTANT]
 > use `yarn` ou `npm`  para instalar as dependências do projeto, após a instalação das dependências siga os próximos passos.
+```sh
+ > yarn 
+ ```
+ou
+
+```sh
+> npm install
+```
 
 
 ## Configurações importantes
