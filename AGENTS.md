@@ -11,6 +11,7 @@ As orientações a seguir aplicam-se a todo o projeto. Para solicitações de de
 Para cada novo metodo ou função crie uma interface de tipo em **types/[controlers | services | models]/[nome_do_arquivo].ts** exporte cada nova **interface** e adicione ao seu metodo ou função, se não for necessário uma interface, adicione a tipagem ao metodo ou função, tente manter um padrão limpo e organizado, sempre mantendo as interfaces para grande quantidade de dados ou dados que são necessários.
 
 ## Fluxo de Desenvolvimento
+1. Crie branches com nomes em ingles e sem caracteres especiais
 
 1. Instale as dependências JavaScript:
 
